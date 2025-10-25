@@ -18,6 +18,7 @@ const Header = () => {
     { href: "/academic", label: "Academic" },
     { href: "/projects", label: "Projects" },
     { href: "/research", label: "Research" },
+    { href: "/awards-grants", label: "Awards & Grants" },
     { href: "/administrative", label: "Administrative" },
     { href: "/achievements", label: "Achievements" },
     { href: "/contact", label: "Contact" },

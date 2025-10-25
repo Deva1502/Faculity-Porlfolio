@@ -28,7 +28,7 @@ const Contact = () => {
                     {[
                       "rajeshdwivedi.cse@iiitranchi.ac.in",
                       "anubhav.dwivedi8@gmail.com",
-                      "rajesh.cse@iiti.ac.in",
+                      "rajeshdwivedi@iiti.ac.in",
                     ].map((email, index) => (
                       <a
                         key={index}
