@@ -61,7 +61,7 @@ function App() {
             </Layout>
           }
         />
-        <Route path="/awards-grants" element={<AwardsGrants />} />
+        <Route path="/awards-grants" element={<Layout><AwardsGrants /></Layout>} />
         <Route
           path="/contact"
           element={
